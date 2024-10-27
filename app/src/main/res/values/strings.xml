@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kafeteria2024</string>
+    <string name="title">Restauracja w ZSTE</string>
+    <array name="main_menu">
+        <item>Słodkości</item>
+        <item>Kawa</item>
+        <item>Ciasta</item>
+    </array>
+    <string name="coffees">Strefa kawy w ZSTE</string>
+    <string name="sweets">Strefa słodkości w ZSTE</string>
+    <string name="cakes">Strefa ciast w ZSTE</string>
+
+</resources>
